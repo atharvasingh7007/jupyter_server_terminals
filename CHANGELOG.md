@@ -4,6 +4,29 @@ All notable changes to this project will be documented in this file.
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.5.4
+
+([Full Changelog](https://github.com/jupyter-server/jupyter_server_terminals/compare/v0.5.3...678106780255943731cc72d279fe95e2898a4734))
+
+### Bugs fixed
+
+- allow async authorization [#109](https://github.com/jupyter-server/jupyter_server_terminals/pull/109) ([@Zsailer](https://github.com/Zsailer))
+
+### Documentation improvements
+
+- Add links to source/issues/docs/funding [#110](https://github.com/jupyter-server/jupyter_server_terminals/pull/110) ([@krassowski](https://github.com/krassowski), [@Zsailer](https://github.com/Zsailer))
+
+### Contributors to this release
+
+The following people contributed discussions, new ideas, code and documentation contributions, and review.
+See [our definition of contributors](https://github-activity.readthedocs.io/en/latest/#how-does-this-tool-define-contributions-in-the-reports).
+
+([GitHub contributors page for this release](https://github.com/jupyter-server/jupyter_server_terminals/graphs/contributors?from=2024-03-12&to=2026-01-14&type=c))
+
+@krassowski ([activity](https://github.com/search?q=repo%3Ajupyter-server%2Fjupyter_server_terminals+involves%3Akrassowski+updated%3A2024-03-12..2026-01-14&type=Issues)) | @Zsailer ([activity](https://github.com/search?q=repo%3Ajupyter-server%2Fjupyter_server_terminals+involves%3AZsailer+updated%3A2024-03-12..2026-01-14&type=Issues))
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.5.3
 
 ([Full Changelog](https://github.com/jupyter-server/jupyter_server_terminals/compare/v0.5.2...4d5e3041fe8b24511d0b78b99a7678e353b78612))
@@ -18,8 +41,6 @@ All notable changes to this project will be documented in this file.
 ([GitHub contributors page for this release](https://github.com/jupyter-server/jupyter_server_terminals/graphs/contributors?from=2024-01-22&to=2024-03-12&type=c))
 
 [@blink1073](https://github.com/search?q=repo%3Ajupyter-server%2Fjupyter_server_terminals+involves%3Ablink1073+updated%3A2024-01-22..2024-03-12&type=Issues) | [@pre-commit-ci](https://github.com/search?q=repo%3Ajupyter-server%2Fjupyter_server_terminals+involves%3Apre-commit-ci+updated%3A2024-01-22..2024-03-12&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 0.5.2
 
